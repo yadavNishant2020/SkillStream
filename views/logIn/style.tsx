@@ -18,13 +18,14 @@ export const useStyle = (theme?: themeProps) =>
       objectFit: 'cover',
     },
     title: {
-      color: 'black',
+      color: '#12B3C9',
       fontSize: FontSize.H1,
       textAlign: 'center',
-      fontWeight: 'bold',
+      fontWeight: '900',
       marginTop: scaleVertical(30),
-      paddingHorizontal: scale(60),
-      letterSpacing: 1.5
+      paddingHorizontal: scale(30),
+      letterSpacing: 3,
+      
     },
     subtitle: {
       color: 'black',

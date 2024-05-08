@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "468143246422",
+    "project_id": "skillstream-5b17a",
+    "storage_bucket": "skillstream-5b17a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468143246422:android:9c05748a6ed6b58ee9bff7",
+        "android_client_info": {
+          "package_name": "com.skillstream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468143246422-m3h39th2sctqsdg28vsfg0m6i1pqiegc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skillstream",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "468143246422-ddrmquiobefnf7ebr4pi1ea443di0urj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrhih1evpxalP8cNl5C_nMKh3F-6PwHXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468143246422-ddrmquiobefnf7ebr4pi1ea443di0urj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

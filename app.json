@@ -1,4 +1,9 @@
 {
   "name": "SkillStream",
-  "displayName": "SkillStream"
+  "slug": "SkillStream",
+  "version": "1.0.0",
+  "scheme": "SkillStream",
+  "orientation": "portrait",
+  "displayName": "SkillStream",
+  "package": "com.nishant.skillstream"
 }
