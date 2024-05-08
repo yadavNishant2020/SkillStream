@@ -3,7 +3,7 @@ import {themeProps} from '../../theme';
 import {FontSize, scale, scaleVertical} from '../../theme/scale';
 import colors from '../../shared/colors';
 
-export const useStyle = (theme?: themeProps) =>
+export const useStyle = () =>
   StyleSheet.create({
     container: {
       paddingTop: scaleVertical(25),
@@ -22,10 +22,9 @@ export const useStyle = (theme?: themeProps) =>
       fontSize: FontSize.H1,
       textAlign: 'center',
       fontFamily: 'Montserrat-ExtraBold',
-      // fontWeight: 'black',
       marginTop: scaleVertical(30),
       paddingHorizontal: scale(30),
-      letterSpacing: 2.5,
+      letterSpacing: 1.5,
       
     },
     subtitle: {
