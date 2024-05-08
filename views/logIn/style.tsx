@@ -21,10 +21,11 @@ export const useStyle = (theme?: themeProps) =>
       color: '#12B3C9',
       fontSize: FontSize.H1,
       textAlign: 'center',
-      fontWeight: '900',
+      fontFamily: 'Montserrat-ExtraBold',
+      // fontWeight: 'black',
       marginTop: scaleVertical(30),
       paddingHorizontal: scale(30),
-      letterSpacing: 3,
+      letterSpacing: 2.5,
       
     },
     subtitle: {

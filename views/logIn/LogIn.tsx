@@ -42,7 +42,7 @@ const LogIn = () => {
         resizeMode="stretch"
       />
       <View style={styles.container}>
-        <Text style={styles.title}>WELCOME TO SKILL STREAM</Text>
+        <Text style={styles.title}>Welcome to SKILL STREAM</Text>
         <Text style={styles.subtitle}>Login/Signup</Text>
       </View>
       <TouchableOpacity
